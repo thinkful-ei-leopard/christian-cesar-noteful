@@ -24,3 +24,19 @@ a{
   color: black;
   text-decoration: none;
 }
+
+li{
+  text-align: center;
+  width:150px;
+  height:35px;
+  list-style: none;
+  border-style: solid;
+}
+
+div.Note{
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+
+}
